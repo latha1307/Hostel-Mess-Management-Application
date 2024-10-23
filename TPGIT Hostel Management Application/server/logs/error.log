@@ -1,0 +1,8 @@
+2024-09-21 20:02:15 [[31merror[39m]: ConnectionError: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+    at PrivateConnection.callback2 (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\node_modules\mssql\lib\msnodesqlv8\connection-pool.js:46:17)
+    at Immediate.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\node_modules\msnodesqlv8\lib\connection.js:41:14)
+    at process.processImmediate (node:internal/timers:478:21)
+2024-09-21 20:02:15 [[31merror[39m]: ConnectionError: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+    at PrivateConnection.callback2 (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\node_modules\mssql\lib\msnodesqlv8\connection-pool.js:46:17)
+    at Immediate.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\node_modules\msnodesqlv8\lib\connection.js:41:14)
+    at process.processImmediate (node:internal/timers:478:21)

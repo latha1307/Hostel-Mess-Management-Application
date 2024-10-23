@@ -1,0 +1,364 @@
+2024-09-21 14:49:28 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 14:51:14 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 14:51:30 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 14:53:02 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 14:53:14 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 14:54:05 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 14:54:33 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 14:54:48 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 14:56:29 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 14:56:38 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 15:00:02 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 15:00:35 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 15:00:55 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 15:04:57 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 15:05:58 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 15:09:01 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 15:13:40 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 15:14:00 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 15:15:38 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 15:16:48 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 15:17:38 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 15:18:20 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 15:18:23 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 15:18:31 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 15:18:51 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-09-21 15:19:15 [[31merror[39m]: Error: Cannot find module 'express-validator'
+Require stack:
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js
+- C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (C:\PIPING\Full Stack\Website for Hostellers\Frontend\server\routes\newStudent.js:6:36)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
