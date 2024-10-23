@@ -1,11 +1,12 @@
 const sql = require('mssql/msnodesqlv8');
+require('dotenv').config();
 
 // Database connection configuration
 const config = {
-    user: 'Latha', // The new user's username
-    password: 'Hackathon2024!', // The new user's password
-    server: 'localhost\\SQLEXPRESS', // The server name (or IP address)
-    database: 'HostelManagementDB', // The database you want to connect to
+    user: process.env.DB_USER,
+    password: process.env.DB_PASSWORD,
+    server: process.env.DB_SERVER,
+    database: process.env.DB_DATABASE,
     options: {
         encrypt: false,
         trustServerCertificate: true // Trust server certificate if required
